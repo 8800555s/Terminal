@@ -1,0 +1,7 @@
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп Практическая 2\С шарп Практическая 2\bin\Debug\С шарп Практическая 2.exe.config
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп Практическая 2\С шарп Практическая 2\bin\Debug\С шарп Практическая 2.exe
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп Практическая 2\С шарп Практическая 2\bin\Debug\С шарп Практическая 2.pdb
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп Практическая 2\С шарп Практическая 2\obj\Debug\С шарп Практическая 2.csprojAssemblyReference.cache
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп Практическая 2\С шарп Практическая 2\obj\Debug\С шарп Практическая 2.csproj.CoreCompileInputs.cache
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп Практическая 2\С шарп Практическая 2\obj\Debug\С шарп Практическая 2.exe
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп Практическая 2\С шарп Практическая 2\obj\Debug\С шарп Практическая 2.pdb

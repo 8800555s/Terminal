@@ -1,0 +1,6 @@
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп практическая 3Х2\С шарп практическая 3Х2\bin\Debug\С шарп практическая 3Х2.exe.config
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп практическая 3Х2\С шарп практическая 3Х2\bin\Debug\С шарп практическая 3Х2.exe
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп практическая 3Х2\С шарп практическая 3Х2\bin\Debug\С шарп практическая 3Х2.pdb
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп практическая 3Х2\С шарп практическая 3Х2\obj\Debug\С шарп практическая 3Х2.exe
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп практическая 3Х2\С шарп практическая 3Х2\obj\Debug\С шарп практическая 3Х2.pdb
+C:\Users\user.LAPTOP-DSLBN2H4.001\source\repos\С шарп практическая 3Х2\С шарп практическая 3Х2\obj\Debug\С шарп практическая 3Х2.csprojAssemblyReference.cache

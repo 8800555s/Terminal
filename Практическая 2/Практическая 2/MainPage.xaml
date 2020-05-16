@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="Практическая_2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Практическая_2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <NavigationView x:Name="NavView" IsSettingsVisible="False" IsBackButtonVisible="Collapsed">
+        <NavigationView.MenuItems>
+            <NavigationViewItem x:Name="Рецепты" Content="Рецепты" Icon="Emoji" Tapped="Рецепты_Tapped" Background="Orange" FontSize="20" FontFamily="Calibri"/>
+            <NavigationViewItem x:Name="Кашки" Content="Каши" Icon="Zoom" Tapped="Каши_Tapped" Background="Bisque" FontSize="20" FontFamily="Calibri" />
+            <NavigationViewItem x:Name="Закуски" Content="Закуски" Icon="Rotate" Tapped="Закуски_Tapped" Background="LightYellow" FontSize="20" FontFamily="Calibri"/>
+            <NavigationViewItem x:Name="Пиво" Content="Пиво" Icon="Favorite" Tapped="Закуски_Tapped" Background="LightYellow" FontSize="20" FontFamily="Calibri"/>
+
+        </NavigationView.MenuItems>
+       
+
+
+    </NavigationView>
+</Page>
